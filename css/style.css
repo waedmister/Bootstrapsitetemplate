@@ -1,0 +1,123 @@
+.container {
+  width: 100%;
+}
+.rowone {
+  background-color: black;
+  height: 90px;
+  color: white;
+}
+
+.fresh {
+  font-size: 25px;
+  padding-left: 125px;
+}
+
+.topmenu {
+  float: right;
+  padding-right: 125px;
+}
+
+.navmenu {
+  display: inline;
+  text-decoration: none;
+  padding-left: 15px;
+  line-height: 90px;
+  white-space: nowrap;
+  padding-top: 10px;
+}
+
+.rowtwo {
+  height: 470px;
+  background-color: #13a89e;
+  padding-top: 90px;
+  text-align: center;
+}
+
+.heading  {
+  color: white;
+  font-size: 50px;
+}
+.info {
+  color: white;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.clickhere {
+  background-color: white;
+  color: gray;
+  height: 45px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.purchasenow {
+  background-color: #333333;
+  color: white;
+  height: 45px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.rowthree {
+  height: 100px;
+}
+
+.whatwedo {
+  text: #333333;
+  font-size: 16px;
+  text-align: center;
+  padding: 25px;
+}
+
+img {
+  height: 65px;
+}
+.rowfour {
+  padding-left: 235px;
+  padding-right: 235px;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.rowfive {
+  height: 100px;
+}
+
+.rowsix {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.rowseven {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.grayboxes {
+  margin-left: 125px;
+  margin-right: 125px;
+}
+.graybox {
+  background-color: gray;
+  height: 200px;
+  width: 370px;
+}
+
+.roweight {
+  height: 225px;
+}
+
+.wewouldlove {
+  padding-left: 150px;
+  text-align: right;
+}
+
+.get {
+  padding-top: 20px;
+  padding-right: 150px;
+}
